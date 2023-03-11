@@ -4,7 +4,7 @@
   <a href="https://github.com/Gih-Capitani">
    <a href="https://github.com/Gih-Capitani">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gih-Capitani&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gih-Capitani&layout=compact&langs_count=6&theme=cobalt"/>
   </a>
 
 </div>
@@ -17,5 +17,5 @@
  <br>
  
 <div>
- ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Gih-Capitani/Gih-Capitani/blob/output/github-contribution-grid-snake.svg)
 </div>
